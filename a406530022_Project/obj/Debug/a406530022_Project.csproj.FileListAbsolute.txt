@@ -1,0 +1,13 @@
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.csprojAssemblyReference.cache
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.Form1.resources
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.Form2.resources
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.Properties.Resources.resources
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.csproj.GenerateResource.cache
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.csproj.CoreCompileInputs.cache
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\bin\Debug\a406530022_Project.exe.config
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\bin\Debug\a406530022_Project.exe
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\bin\Debug\a406530022_Project.pdb
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.exe
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.pdb
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.Form3.resources
+C:\Users\yanga\source\repos\a406530022_Project\a406530022_Project\obj\Debug\a406530022_Project.Form4.resources
